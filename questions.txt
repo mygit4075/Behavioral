@@ -1,0 +1,278 @@
+PART 1
+1. Tell me about your best collaboration experience
+   Why it’s effective: It’s hard to think of a single profession where collaboration isn’t an important skill. In any company, the ability to work well with others is a must. What is the candidate’s collaboration style? Do they really appreciate the benefits and value of collaboration? How will they collaborate with others in the future? This can be important in thinking about which team to the place the candidate on, and also considering if they’ll be a good fit for the company culture in general.
+
+2. What do you do to stay motivated?
+   Why it’s effective: In terms of must-ask behavioral questions, this one might take the cake. In any job, staying motivated is key to avoiding burnout, sticking with the job, and delivering best results. If the candidate’s cause for motivation is likely to be volatile – like the constant hope of a promotion, or the ability to shape big company decisions, it may be cause for pause. In addition, if their source of motivation is tied to your company’s culture and values – like care for the environment, or providing excellent service to customers – it can be a sign they’re a good fit.
+
+3. How do you build relationships?
+   Why it’s effective: In the SHRM’s 2017 survey on job satisfaction, 48 percent of respondents ranked relationships with co-workers as very important, making it one of the most important factors in employee success and engagement. Being able to effectively foster connections with co-workers and managers is a fundamental skill for long-term success in organizations of any size. It’s important to be able to assess the candidate’s ability to cultivate and keep long-term relationships, which questions like this can give valuable insight into that ability.
+
+4. What would you do if an interviewer didn’t show up?
+   Why it’s effective: The answer to this question can provide a fascinating insight about how your candidate reacts when things go wrong – as, often, they inevitably do. Would the candidate pick up the phone and try to ring the interviewer? Would they walk away? Would they contact other people in the company to try and figure out what happened? This can provide insight into how they handle problems on the job.
+
+5. What is one project you’re proud of?
+   Why it’s effective: This is one of the main chances during the interview for the candidate to shine. It gives them a chance to promote their work and the role they played in bringing that work to life. It’s also important to listen – how do they promote themselves? Do they give more credit to themselves or others? This question gives a window into both how the candidate works and promotes their work.
+
+6. Why do you want to work for Facebook?
+   Why it’s effective: This question allows the candidate to showcase a number of different attributes. First of all, their answer to this question will inevitably show the depth of research they’ve done on the company. Second of all, their answer should not only be about the company, but about their vision for personal growth within the company. The candidate must show why it’s important for them to work at the company.
+
+7. What is the biggest compliment you have received in your current role?
+   Why it’s effective: This is a much better twist to the questions “what is your greatest strength?” This grounds the candidate’s self-assessment in the real-world context of not only how well the performed in their current role, but what attracted other people notice and compliment. It is likely that what the candidate was appreciated for in their current role will similarly be an asset in their new role.
+
+8. What would be your biggest challenge coming into this role?
+   Why it’s effective: This is a far better alternative than the over-used “what is your greatest weakness?” Instead of a question about personal weaknesses that will likely provide an inauthentic answer, this question takes the question outside of what personal challenges the candidate may have, and puts challenges into the context of the role they are seeking to fill. This allows the candidate to think more broadly, and thus speak more freely, once they are freed to identify problems outside of themselves, rather than within themselves.
+
+9. Tell me about a time that you had a disagreement with your manager.
+   Why it’s effective: Just as there is a wide array of managerial styles, there is similarly a way of responding to different managerial styles. Some employees may jump to complete every task a manager mentions, while others may be more likely to challenge their manager and suggest areas for improvement. This question can sheds light on how the candidate will interact with their manager and resolve difficulties with them. When seeking to match a candidate with a certain manager or team, this is an invaluable question to determine their fit.
+
+10. What are Facebook’s challenges in the coming years?
+    Why it’s effective: This question shows three things: first, that the candidate has done enough research on the company and the industry that you can use it to make predictions. Second, they can use the knowledge you have currently to tell a convincing story about the future. Third, that the candidate can think on the spot about trends you see both in the company and in the world.
+
+11. What would an old co-worker say about you?
+    Why it’s effective: This question is a definitive upgrade to the hackneyed “tell me about yourself.” It allows the candidate to speak about themselves more objectively, from the shoes of a hypothetical coworker, rather than feeling the pressure of having to either be humble or boast in a self-assessment.
+
+PART 2
+Amazon: Describe the project that you had the most trouble with. What would you have done differently?​
+Apple: Talk about a time where you had to make a decision in a lot of ambiguity.
+Dropbox: What was the biggest takeaway from your current job that you'll carry with you throughout your career?​
+Expedia: How do you keep your team engaged?
+Facebook: Give an example of how you set goals and achieve them​.
+Google: Tell me about a time when you solved a conflict at work.​
+HubSpot: Give examples of situations where you have shown effectiveness, empathy, adaptability, and humbleness.
+IBM: Why do you want to change jobs? Why now?
+LinkedIn: Share an example of how you were able to motivate employees or co-workers.
+Microsoft: What do you do when the requirement from the stakeholder is vague?
+Netflix: How do you make a case for your vision and opinion?
+Oracle: How do you stay organized?
+Pinterest: Give an example of an occasion when you used logic to solve a problem.
+Salesforce: What do you do if you don't know the solution for a certain problem and nobody can help at the moment?
+Slack: Have you handled a difficult situation with a coworker? How?
+Spotify: How do you experiment?
+TripAdvisor: What websites do you spend a lot of time on?
+Uber: What do you do if you disagree with your boss?
+VMware: Talk about a time that you failed.​
+
+What's the best way to answer questions like these? To begin with, consider that at a time when unemployment is at a historic low and jobs--especially at tech companies--are plentiful, you may not be doing yourself any favors if you go to work at a company whose culture doesn't fit your values or your personality. The likelihood is high that if you kept looking, you would find a job at a place that you'd like better. With that in mind, you might want to answer with enough honesty to give the interviewer some idea of who you are as a person so that both of you can make an informed decision. 
+
+With that in mind, here are Pathrise's tips for how to ace a behavioral interview:
+
+1. Follow the protocol. 
+"Every behavioral interview has the same structure: introduce yourself, resume deep dive, specific questions, why this company, your questions," according to the Pathrise blog. With that in mind, you should be ready with a one-to-two-minute introduction. It should cover your education, work experience, some projects you've worked on and provide a little information as to why you want to work at this company.
+
+Later on, when you answer that why-this-company question more fully, it goes without saying that you shouldn't mention salary or perks. Instead, begin by talking about the company's mission or product, and then its approach.
+
+2. Be succinct, specific, and high-level.
+Being succinct and high-level may seem to be at odds with being specific, but you can do both at once. Pathrise offers this as an example:
+
+"There were 3 core features that I implemented to help us. At a high level, they were a revamped landing page, social media sharing, and referrals. Happy to go in more detail on any one of them if you'd like. With these features, we reached 100,000 views in a week."
+
+You're always better off having the interviewer ask you for more detail than overloading him or her with more information than is needed or wanted.
+
+3. Mix "I" and "we."
+If you say "I" too often, you don't sound like a team player; if you say "we" too often, you can leave the interviewer wondering what you actually did. So use both, and talk about both your team's accomplishments and your own specific contributions. Pathrise also suggests you talk about how much you learned and how grateful you are to avoid sounding like you're bragging.
+
+4. Never be negative.
+In a behavioral interview, you are likely to be asked about a challenging time, a failure, a conflict, or other difficult episodes from your past. Even when talking about something that went truly wrong, find a way to stay positive, Pathrise advises. So let's say you launched a product and it flopped. Instead of putting it that way, say something like, "We introduced the product and many of our customers loved it. However, to get significant adoption, we would have had to offer it at a price point that was unprofitable. So we decided to retire the project but were able to incorporate some of its best features as premium add-ons to a different, well-established product."
+
+No matter how much they make you talk about failure, you can always focus on the positive--the valuable lessons you learned and how you applied them next time, if nothing else. Do that, and chances are your behavioral interview will lead to an attractive offer.
+
+PART 3
+Are You Prepared For Tricky Behavioral Interview Questions Like These?? 
+
+Why did you leave your last job?
+Have you ever been fired or forced to resign?
+Why have you had so many jobs in such a short period of time?
+Can you explain this gap in your employment history?
+Exactly why do you want to work here?
+Why should we hire YOU? What can you do for us that someone else can not? 
+ 
+
+ 
+
+Have you ever had problems with a supervisor or a coworker? Describe the situation for me.
+Describe some times when you were not very satisfied with your own performance. What did you do about it?
+Give me an example of a problem you faced on the job, and tell me how you solved it.
+Give me an example of an important goal you had to set and tell me about your progress in reaching that goal. What steps did you take?
+What was your role in your department's most recent success? 
+ 
+
+ 
+
+What do you consider to be your greatest strengths and weaknesses?
+What have you learned from your mistakes?
+What was the best decision you ever made?
+Describe a time when you were faced with problems or stresses at work. What did you do?
+How do you deal with competition? Are you a competitive person?
+What would you consider an ideal work environment?
+What are your long-range career objectives, and what steps have you taken toward obtaining them? 
+ 
+
+ 
+
+How well do you work with people? Do you prefer working alone or in teams?
+Describe a situation when working with a team produced more successful results than if you had completed the project on your own.
+What do you do when people disagree with your ideas?
+Describe a situation where you found yourself dealing with someone who didn't like you. What did you do?
+Tell me about a time when you had to use your presentation skills to influence someone's opinion. 
+ 
+
+ 
+
+Can you tell me about an important written document you were required to complete?
+What motivates you to go the extra mile on a project or job?
+Describe a situation where you messed up, or your results were not up to your supervisor's expectations. What action did you take?
+Give me an example of a time when you tried to accomplish something and failed. Were you discouraged by this? What did you do about it? 
+ 
+
+ 
+
+What do you really want to do in life? What do you see yourself doing five years from now?
+What does it mean to be successful? According to your definition, how successful have you been so far?
+What is the best thing that ever happened to you?
+What is the most creative thing you have ever done? 
+ 
+
+ 
+
+You don't have the right kind of experience.
+You may be overqualified or too experienced for the position.
+What are your expectations regarding promotions and salary increases?
+How much $$$ do you expect if we offer this position to you?
+Each and every one of these questions is answered in this Guide. You'll have the perfect seasoned and intelligent answer to every question! ...
+
+ 
+
+ 
+
+SAMPLE ANSWERS: 
+
+ 
+
+Give me an example of a problem you faced on the job, and tell me how you solved it.
+ 
+
+DISCUSSION: This is a problem solving question that tests your critical thinking skills. This is a great question for showing that you are a creative and capable problem solver. The problem you select to use as an example should be as similar as possible to a problem that you are likely to face at the job you are interviewing for.1) LISTEN for their "pain points," 2) give an example of your experience where you solved something similar, then 3) get them to agree with you that such experience would be beneficial to the company.
+ 
+
+ "I try to take a systematic approach to problem solving. I take the time to gather the relevant information and clearly define the problem or goal. I think it is important to get the information and clarify the problem first before you start coming up with possible solutions, or wasting other people's time. FOR EXAMPLE, when I was at Job "X" ... What kinds of challenges are YOU currently facing in your department? How tough a position does that put you in? What could the ideal candidate do to help solve this problem in their first couple months on the job?"
+ 
+
+ "Sure, at my last job we had a problem where the situation was "X" ... the action I took was "Y" ... and the positive outcome was "Z" ... I was commended by Susan in Accounting for solving the problem and getting the project back on track. I think that's the type of experience you are looking to bring to your team ... isn't it?
+ 
+
+ "You would agree that having this type of experience will help me succeeed in this position, wouldn't you?" 
+ 
+
+"... How to best tell your 'experience stories' and then get them to agree with you that such experience would be huge asset for the company ..."
+ 
+
+ 
+
+What did you like best and least about your previous job?
+ 
+
+DISCUSSION: This question reveals a lot about you. You want to indicate that what you liked best about your last job are things that will appeal to the Hiring Manager. Show that your last job allowed you to demonstrate many of the positive and desirable Behavioral Competencies that are discussed at the beginning of this Guide. Give specific examples of how your last job allowed you to flex your skills and show your maturity. Never make statements like "I like that my last company gave me a lot of vacation days," or something similar. When answering about what you liked least, keep it short and do not be negative.
+ 
+
+ "What I liked about my last job was the fact that there was good on the job training. I was able to really develop my "X" skills, which I know will help me succeed here if I am fortunate enough to be able to join your team. What are the qualities and skills of the people who have been most successful at this company?"
+ 
+
+ "I've got some of those skills as well. I think that's something that could benefit your department, isn't it?"
+ 
+
+ "One thing I liked about my last job was that it allowed me to develop my leadership skills. FOR EXAMPLE, I was put in charge of a project where I had to earn the "buy-in" of people from multiple different departments — including Marketing, IT, Product Development, and even HR. I held all the responsibility for getting this project completed on time, even though I had no real authority over my teammates since they did not report to me. I was able to create a project vision that the team agreed on, and then day-to-day I made sure that each team member completed their work on time. I did this in most cases by appealing to my teammates' own self-interests. FOR EXAMPLE ... " 
+ 
+
+ "Did I answer that question to your satisfaction?"
+ 
+
+ "What I liked least about my last job was that the management style was pretty hands off, and this was fine for me because I am self-motivated and work hard to achieve. But the lack of structure sometimes allowed some of my teammates to slack off from time to time — and I often ended up having to pick up the extra work. I would not mind that SOMETIMES, but it got old after a while. I had to constructively approach my manager and let her know what was going on WITHOUT creating any friction between me and the slacker teammates, who I actually liked as people. In the end, it worked out well, because I was pro-active. Have you ever run into that type of situation as a manager?" 
+ 
+
+"... A Full Explanation Of What You Need To Say To Get Hired ..."
+ 
+
+ 
+
+What have you learned from your mistakes?
+ 
+
+DISCUSSION: Show that you are able to learn from your mistakes, but don't offer up any negative examples concerning your past performance. Show that you have been successful, but that you have the maturity it takes to examine your own behavior so that you can learn and grow and be a better employee. Be brief.
+ 
+
+ "Good question. Well, I have been successful at every job I have had, but I have had the normal ups and downs. I'd say that I do actively try to monitor my work habits and the quality of my workso that I can constantly be improving myself. FOR EXAMPLE, I have had one or two hiccups with customers where their satisfaction was not where I thought it was. I learned that I have to really monitor certain difficult customers closely and "take their temperature" so I can keep their satisfaction level as high as possible. Have YOU had any customers like that here?" 
+ 
+
+"... Learn The 'Mind-Set' Of Successful Interviewing ..."
+ 
+
+ 
+
+Describe a situation when working with a teamproduced more successful results than if you had completed the project on your own. 
+ 
+
+DISCUSSION: This is a "behavioral interviewing" style of question. The Hiring Manager wants to learn more about your thought process, and how well you can form examples to answer this teamwork related question. You will want to show your ability to solicit ideas from others, listen carefully, and persuade people to your point of view.
+ 
+
+ "Well, I have worked both independently and as a member of team, throughout my career. I enjoy both, and I can do both equally well. I will have to say, though, that working with others has often yielded great results for projects I have worked on — specifically when it comes to brainstorming. I try to get everyone involved in coming up with new solutions by making time for sessions where "there are no wrong ideas or answers." The creativity of a group of people is always going to be greater than that of one person, and thus the results will be more successful. I did that a lot a Job "Y". FOR EXAMPLE ..."
+ 
+
+ "Working with others allows you data-mine other people's skills and experiences, get perspectives and ideas that you would not have on your own , and check the quality of your own work before it goes out the door. FOR EXAMPLE, at Job "X" I worked with many great people. I was able to "pick their brains" — so to speak — about the effectiveness of various techniques, estimates on how long it would take to get various things done, etc. — I would not have been able to do my job as effectively without them ... Will there be the opportunity to work in team situations at this job?"
+ 
+
+"... Eliminate Any "Fear of Interviewing" Once And for All ..."
+ 
+
+ 
+
+Describe a time when you were faced with problems or stresses at work that tested your coping skills. What did you do?
+ 
+
+DISCUSSION: Workplace stress is an issue for everyone. Don't pretend that you never get stressed out. You want to show that you can deal with stress and cope with difficult situations. Show that you are calm under pressure, and know how to avoid stress in the first place through planning and time management.
+ 
+
+ "Well I think it is important to remember that stress effects everyone, and it is inevitable that sometimes people are going to have bad days. That is why I try to give people the benefit of the doubt when they seem to have a short fuse. What I do personally is try to control my response to a situation. You can't necessarily control what happens to you, but you CAN control your own response. What I try to do is lengthen the time between the stressful situation and my response — so that I can identify the cause of the stress and decide what I can do about it ... Would you say it is a stressful environment here? ... I see. I'm sure I can handle it. I have been tested like that before ... FOR EXAMPLE ...."
+ 
+
+ "FOR EXAMPLE, on several occasions I have had to deal with very irate customers who actually yelled at me. What I did was stay calm and not let them get under my skin. I really tried to listen and decide exactly what it was that was at the root of their problem. Then I provided solutionsthat could be completed within a specific time-frame. I always find that it is best to face those types of situations head-on and be objective about them. I do my best to be professional and not get my emotions involved. Also, I try to avoid stress in the first place by tackling difficult tasks or conversations sooner rather than later. Does that make sense? ... I hope I've answered that question to your satisfaction?"
+ 
+
+"... This Download Will Fill You With Motivation And Confidence ..."
+ 
+
+ 
+
+What was your role in your department's mostrecent success?
+ 
+
+DISCUSSION: You'll want to be very specific here, and frame your answer in terms of how you saved time and money. The Hiring Manager is looking for a pattern of success, and you need to describe recent successes in detail. Use the S.T.A.R. Statement formula for your examples. Be prepared with at least three examples concerning your recent successes, and make sure at least one of them relates to teamwork and something you accomplished as part of a group. Make sure you address how your work made other people FEEL, as well as the time you saved and the revenue or cost-savings you generated.
+ 
+
+ "I guess that would be a recent project for client "X." I handled all of the communicationwith the client for our last project. It was a three month long project where my team had to build a custom package based on the needs of client. I was instrumental in translating the client's business needs into detailed product features. I had to make sure that my team understood what the client wanted, and then check the quality to make sure that we were delivering a quality product with the features that the client was expecting." 
+ 
+
+ "Well, it was an ongoing process that required a lot of communication and teamwork with my team as well as the client. I think my role really was to clarify the scope of the project, and then "manage the client's expectations." We were able to deliver on time, and the client was thrilled! I was able to make sure no time was wasted on adding unnecessary features, and since we were working on a fixed bid price, we saved my company time and money. My manager and everybody on my team felt great because the project went so smoothly ... Is that the kind of experience that would help me be successful here?"
+ 
+
+"... Don't Let Another Day Go By Before You Take Action ... Give Yourself An Advantage So You Get The Job! ..."
+
+PART 4
+Tell me about a challenging situation. If you could go back to the very beginning, what would you do differently?
+This question is Facebook’s VP of Product Julie Zhuo’s favorite interview question. Your answer to this behavioral interview question can indicate many things. Facebook wants to see that you have a growth mindset, are introspective about your experiences, and learn from past experiences.
+
+Zhuo believes that a red flag response would be if an interviewee felt that everything that happened was outside his or her control. When answering this question, it is essential to demonstrate what you have learned and show your problem-solving strategies.
+
+What are Facebook’s challenges in the upcoming years?
+This question is a test to see if you did your homework. It demonstrates if the candidate bothered to research the company and industry as well as his or her ability to identify trends and potential obstacles. After all, if you don’t know the problem, you won’t be the solution that a company is looking for.
+
+What would you do if your interviewer failed to show up?
+This interview question is a curveball. A hypothetical scenario helps Facebook evaluate a candidate’s resourcefulness and see if they take the initiative and take action when things go wrong. For example, would you walk out, or would you send an email or call them? Alternatively, would you try to contact other people at the company to try to figure out what happened?
+
+Tell me about your most successful collaboration experience.
+No position is independent of others. The company as a whole must work together and collaborate. As a result, talking about your most successful collaboration experience can reveal your collaboration style and how you will work with others in the future. After all, Facebook is about networking, socializing, and connecting with people.
+
+Do you have any questions for me?
+While this may not seem like part of the interview, this question helps leave a final positive impression. Zhou says that a candidate’s question can show that they have a sincere interest to be on Facebook’s team. These candidates ask about the nitty gritty details of working in that environment and want to confirm that they are a good fit.
+
+
